@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/a2a8b567-07db-464a-8f69-9988affb10f3)
 
-# Up&Down Game
+## Up&Down Game
 [코딩알려주는누나]의 자바스크립트 강의 중 [첫 번째 프로젝트: 숫자 맞추기 게임 만들기] 파트를 수강한 후 구현한 **Up&Down 게임**입니다.
 이 게임은 사용자가 숫자를 추측하여 입력한 숫자에 따라 **UP** 또는 **DOWN**을 알려주며 주어진 기회 내에 정답을 맞추는 게임입니다.
 
